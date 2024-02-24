@@ -1,4 +1,4 @@
-# Food Order Analysis Project
+# Swiggy Case Study
 
 ## Purpose:
 The purpose of this project is to analyze food ordering trends before and after the Diwali festival, utilizing a dataset containing information on food orders. By examining various aspects such as popular food categories, ordering patterns in different cities, top-performing shops, popular items, and order timings, the project aims to uncover insights into consumer behavior during this festive period.
